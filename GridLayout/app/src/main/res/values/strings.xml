@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GridLayout</string>
+    <string name="subtitle">Wild Life</string>
+    <string name="zoo">Zoo</string>
+    <string name="pinguin">Pinguin</string>
+    <string name="rhino">Rhino</string>
+    <string name="panter">Panter</string>
+    <string name="crocodile">Crocodile</string>
+    <string name="wolf">Wolf</string>
+    <string name="bull">Bull</string>
+    <string name="hippopotamus">Hippopotamus</string>
+    <string name="eagle">Eagle</string>
+</resources>
